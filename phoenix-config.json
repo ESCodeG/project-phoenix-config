@@ -6,16 +6,9 @@
     "ABCD1234EFGH5678": {
       "generated_date": "2025-06-19T15:30:00Z",
       "client_ref": "Phoenix-001",
-      "active": true,
-      "system_id": "db42b2259cd00f96",
-      "activation_timestamp": "2025-06-24T17:07:47.290082",
-      "reset_count": 0,
-      "activation_details": {
-        "platform": "Windows",
-        "machine": "AMD64",
-        "activation_method": "standard_activation",
-        "privacy_compliant": true,
-        "anonymous_only": true
+      "active": false,
+      "system_id": null,
+      "activation_timestamp": null
       }
     },
     "WXYZ5678IJKL9012": {
