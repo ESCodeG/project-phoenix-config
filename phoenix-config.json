@@ -6,6 +6,7 @@
     "ABCD1234EFGH5678": {
       "generated_date": "2025-06-19T15:30:00Z",
       "client_ref": "Phoenix-001",
+      "license_type": "standard",
       "active": false,
       "system_id": null,
       "activation_timestamp": null
