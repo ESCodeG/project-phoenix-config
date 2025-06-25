@@ -1,0 +1,13 @@
+{
+  "application": {
+    "name": "Phoenix Client",
+    "version": "1.0.0"
+  },
+  "connection": {
+    "default_baudrate": 9600,
+    "timeout_seconds": 2
+  },
+  "logging": {
+    "level": "INFO"
+  }
+}
