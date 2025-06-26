@@ -7,9 +7,9 @@
       "generated_date": "2025-06-19T15:30:00Z",
       "client_ref": "Phoenix-001",
       "license_type": "standard",
-      "active": false,
+      "active": true,
       "system_id": "9E5EE5D0BCBF8870",
-      "activation_timestamp": "2025-06-26T15:01:43.036812",
+      "activation_timestamp": "2025-06-26T15:15:58.335933",
       "reset_count": 0
     }
   },
