@@ -1,33 +1,61 @@
 {
   "version": "1.0",
-  "last_updated": "2025-06-19T15:30:00Z",
   "project_type": "phoenix",
   "config_data": {
-    "ABCD1234EFGH5678": {
-      "generated_date": "2025-06-19T15:30:00Z",
-      "client_ref": "Giulia",
+    "UH79YT3G6UJ2QR69": {
+      "generated_date": "2025-06-27T14:55:24.505517Z",
+      "client_ref": "Giulia-Dev",
       "license_type": "development",
-      "active": true,
-      "system_id": "BFA4BE3F21CF8FC6",
-      "activation_timestamp": "2025-06-26T15:23:44.767452",
+      "active": false,
+      "system_id": null,
+      "activation_timestamp": null,
       "reset_count": 0
     },
-    "WXYZ5678IJKL9012": {
-      "generated_date": "2025-06-19T15:30:00Z",
-      "client_ref": "Tullio",
+    "XQZP8MXCVD6RCVSJ": {
+      "generated_date": "2025-06-27T14:55:24.505517Z",
+      "client_ref": "Tullio-Dev",
+      "license_type": "development",
+      "active": false,
+      "system_id": null,
+      "activation_timestamp": null,
+      "reset_count": 0
+    },
+    "BQGS7X768YBHDQHC": {
+      "generated_date": "2025-06-27T14:55:24.505517Z",
+      "client_ref": "Roberto-Test",
       "license_type": "testing",
-      "active": true,
-      "system_id": "9E5EE5D0BCBF8870",
-      "activation_timestamp": "2025-06-26T15:26:19.949990",
+      "active": false,
+      "system_id": null,
+      "activation_timestamp": null,
       "reset_count": 0
     },
-    "MNOP3456QRST7890": {
-      "generated_date": "2025-06-19T15:30:00Z",
-      "client_ref": "Phoenix-003",
+    "Q76432DFCD3ANDSU": {
+      "generated_date": "2025-06-27T14:55:24.505517Z",
+      "client_ref": "Demo-Cliente",
+      "license_type": "demo",
+      "active": false,
+      "system_id": null,
+      "activation_timestamp": null,
+      "reset_count": 0
+    },
+    "VPQ47ETFSNMZ6JJE": {
+      "generated_date": "2025-06-27T14:55:24.505517Z",
+      "client_ref": "Demo-Cliente",
+      "license_type": "demo",
+      "active": false,
+      "system_id": null,
+      "activation_timestamp": null,
+      "reset_count": 0
+    },
+    "JWAM8BC68WXXGF2Z": {
+      "generated_date": "2025-06-27T14:56:42.842259Z",
+      "client_ref": "Archigia",
       "license_type": "professional",
       "active": false,
       "system_id": null,
-      "activation_timestamp": null
+      "activation_timestamp": null,
+      "reset_count": 0
     }
-  }
+  },
+  "last_updated": "2025-06-27T14:56:42.842259Z"
 }
