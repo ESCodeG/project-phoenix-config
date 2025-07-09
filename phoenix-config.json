@@ -33,9 +33,9 @@
       "generated_date": "2025-06-27T14:55:24.505517Z",
       "client_ref": "Demo-Cliente",
       "license_type": "demo",
-      "active": false,
-      "system_id": null,
-      "activation_timestamp": null,
+      "active": true,
+      "system_id": "F7BAC9E031895A99",
+      "activation_timestamp": "2025-07-09T09:48:18.382164",
       "reset_count": 0
     },
     "VPQ47ETFSNMZ6JJE": {
