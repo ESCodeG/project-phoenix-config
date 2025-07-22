@@ -38,6 +38,24 @@
       "activation_timestamp": "2025-07-09T09:48:18.382164",
       "reset_count": 0
     },
+    "VPQ47ESFSNMZ6JJE": {
+      "generated_date": "2025-06-27T14:55:24.505517Z",
+      "client_ref": "Demo-Sabrina",
+      "license_type": "demo",
+      "active": false,
+      "system_id": null,
+      "activation_timestamp": null,
+      "reset_count": 0
+    },
+    "VPQ47ETMSNMZ6JJE": {
+      "generated_date": "2025-06-27T14:55:24.505517Z",
+      "client_ref": "Demo-Maria",
+      "license_type": "demo",
+      "active": false,
+      "system_id": null,
+      "activation_timestamp": null,
+      "reset_count": 0
+    },
     "VPQ47ETFSNMZ6JJE": {
       "generated_date": "2025-06-27T14:55:24.505517Z",
       "client_ref": "Demo-Cliente",
