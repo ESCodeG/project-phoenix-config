@@ -78,9 +78,9 @@
       "generated_date": "2025-10-13T10:30:00.000000Z",
       "client_ref": "Archigia-1",
       "license_type": "professional",
-      "active": false,
-      "system_id": null,
-      "activation_timestamp": null,
+      "active": true,
+      "system_id": "265FA2D5D49126D3",
+      "activation_timestamp": "2025-10-13T19:16:08.499067",
       "reset_count": 0
     },
     "LP8Q5RYTB6XVST3J": {
