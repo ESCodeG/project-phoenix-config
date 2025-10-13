@@ -73,7 +73,34 @@
       "system_id": null,
       "activation_timestamp": null,
       "reset_count": 0
-    }
+    },
+    "KM9P4NXTA7WQRS2H": {
+  "generated_date": "2025-10-13T10:30:00.000000Z",
+  "client_ref": "Archigia-1",
+  "license_type": "professional",
+  "active": false,
+  "system_id": null,
+  "activation_timestamp": null,
+  "reset_count": 0
+},
+    "LP8Q5RYTB6XVST3J": {
+  "generated_date": "2025-10-13T10:30:00.000000Z",
+  "client_ref": "Archigia-2",
+  "license_type": "professional",
+  "active": false,
+  "system_id": null,
+  "activation_timestamp": null,
+  "reset_count": 0
+},
+    "NQ7R6SZUC5YWTU4K": {
+  "generated_date": "2025-10-13T10:30:00.000000Z",
+  "client_ref": "Archigia-3",
+  "license_type": "professional",
+  "active": false,
+  "system_id": null,
+  "activation_timestamp": null,
+  "reset_count": 0
+}
   },
   "last_updated": "2025-06-27T14:56:42.842259Z"
 }
