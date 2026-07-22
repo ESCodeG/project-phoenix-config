@@ -13,11 +13,11 @@
     },
     "XQZP8MXCVD6RCVSJ": {
       "generated_date": "2025-06-27T14:55:24.505517Z",
-      "client_ref": "Tullio-Dev",
-      "license_type": "development",
-      "active": true,
-      "system_id": "672C3997FA2560C9",
-      "activation_timestamp": "2026-03-04T11:59:27.349987",
+      "client_ref": "Tullio-PC2",
+      "license_type": "demo",
+      "active": false,
+      "system_id": null,
+      "activation_timestamp": null,
       "reset_count": 0
     },
     "BQGS7X768YBHDQHC": {
