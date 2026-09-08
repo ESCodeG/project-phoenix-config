@@ -33,7 +33,7 @@
       "generated_date": "2025-06-27T14:55:24.505517Z",
       "client_ref": "Demo-Casa-Giulia",
       "license_type": "demo",
-      "active": true,
+      "active": false,
       "system_id": "F7BAC9E031895A99",
       "activation_timestamp": "2025-07-23T09:51:01.587107",
       "reset_count": 0
@@ -102,5 +102,5 @@
       "reset_count": 0
     }
   },
-  "last_updated": "2026-09-08T09:47:08.741Z"
+  "last_updated": "2026-09-08T09:47:23.017Z"
 }
