@@ -29,15 +29,6 @@
       "activation_timestamp": "2025-10-01T15:46:48.132694",
       "reset_count": 0
     },
-    "VPQ47ESFSNMZ6JJE": {
-      "generated_date": "2025-06-27T14:55:24.505517Z",
-      "client_ref": "Tullio-Portatile",
-      "license_type": "demo",
-      "active": false,
-      "system_id": null,
-      "activation_timestamp": null,
-      "reset_count": 0
-    },
     "VPQ47ETMSNMZ6JJE": {
       "generated_date": "2025-06-27T14:55:24.505517Z",
       "client_ref": "Demo-Maria",
@@ -93,5 +84,5 @@
       "reset_count": 0
     }
   },
-  "last_updated": "2026-09-08T09:47:26.936Z"
+  "last_updated": "2026-09-08T09:47:31.684Z"
 }
