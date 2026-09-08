@@ -33,7 +33,7 @@
       "generated_date": "2025-06-27T14:55:24.505517Z",
       "client_ref": "Demo-Maria",
       "license_type": "demo",
-      "active": true,
+      "active": false,
       "system_id": "743A7CB80E34057F",
       "activation_timestamp": "2025-07-22T11:29:10.356558",
       "reset_count": 0
@@ -84,5 +84,5 @@
       "reset_count": 0
     }
   },
-  "last_updated": "2026-09-08T09:47:31.684Z"
+  "last_updated": "2026-09-08T09:47:35.048Z"
 }
