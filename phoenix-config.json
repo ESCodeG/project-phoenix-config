@@ -6,7 +6,7 @@
       "generated_date": "2025-06-27T14:55:24.505517Z",
       "client_ref": "Giulia-Dev",
       "license_type": "development",
-      "active": true,
+      "active": false,
       "system_id": null,
       "activation_timestamp": null,
       "reset_count": 1
@@ -111,5 +111,5 @@
       "reset_count": 0
     }
   },
-  "last_updated": "2026-09-08T09:39:03.588Z"
+  "last_updated": "2026-09-08T09:39:24.080Z"
 }
