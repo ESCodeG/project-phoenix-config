@@ -29,15 +29,6 @@
       "activation_timestamp": "2025-10-01T15:46:48.132694",
       "reset_count": 0
     },
-    "VPQ47ETFSNMZ6JJE": {
-      "generated_date": "2025-06-27T14:55:24.505517Z",
-      "client_ref": "Demo-Cliente",
-      "license_type": "demo",
-      "active": false,
-      "system_id": null,
-      "activation_timestamp": null,
-      "reset_count": 0
-    },
     "JWAM8BC68WXXGF2Z": {
       "generated_date": "2025-06-27T14:56:42.842259Z",
       "client_ref": "Archigia",
@@ -75,5 +66,5 @@
       "reset_count": 0
     }
   },
-  "last_updated": "2026-09-08T09:47:39.429Z"
+  "last_updated": "2026-09-08T09:47:44.564Z"
 }
