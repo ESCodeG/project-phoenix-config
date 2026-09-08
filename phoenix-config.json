@@ -64,16 +64,7 @@
       "system_id": "AB8464846ED27F69",
       "activation_timestamp": "2026-02-27T10:17:52.474821",
       "reset_count": 0
-    },
-    "JF96ACKMXUCKC932": {
-      "generated_date": "2026-09-08T14:45:41.662Z",
-      "client_ref": "Giancarlo",
-      "license_type": "development",
-      "active": false,
-      "system_id": null,
-      "activation_timestamp": null,
-      "reset_count": 0
     }
   },
-  "last_updated": "2026-09-08T14:46:39.477Z"
+  "last_updated": "2026-09-08T14:46:44.862Z"
 }
