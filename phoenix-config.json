@@ -69,11 +69,11 @@
       "generated_date": "2026-09-08T14:45:41.662Z",
       "client_ref": "Giancarlo",
       "license_type": "development",
-      "active": true,
+      "active": false,
       "system_id": null,
       "activation_timestamp": null,
       "reset_count": 0
     }
   },
-  "last_updated": "2026-09-08T14:45:41.662Z"
+  "last_updated": "2026-09-08T14:46:39.477Z"
 }
