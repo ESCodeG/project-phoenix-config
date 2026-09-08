@@ -7,9 +7,9 @@
       "client_ref": "Giulia-Dev",
       "license_type": "development",
       "active": true,
-      "system_id": "9E5EE5D0BCBF8870",
-      "activation_timestamp": "2026-01-09T16:52:54.655678",
-      "reset_count": 0
+      "system_id": null,
+      "activation_timestamp": null,
+      "reset_count": 1
     },
     "XQZP8MXCVD6RCVSJ": {
       "generated_date": "2025-06-27T14:55:24.505517Z",
@@ -111,5 +111,5 @@
       "reset_count": 0
     }
   },
-  "last_updated": "2026-09-08T09:36:32.869Z"
+  "last_updated": "2026-09-08T09:39:03.588Z"
 }
