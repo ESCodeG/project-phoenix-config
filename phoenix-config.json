@@ -29,15 +29,6 @@
       "activation_timestamp": "2025-10-01T15:46:48.132694",
       "reset_count": 0
     },
-    "Q76432DFCD3ANDSU": {
-      "generated_date": "2025-06-27T14:55:24.505517Z",
-      "client_ref": "Demo-Casa-Giulia",
-      "license_type": "demo",
-      "active": false,
-      "system_id": "F7BAC9E031895A99",
-      "activation_timestamp": "2025-07-23T09:51:01.587107",
-      "reset_count": 0
-    },
     "VPQ47ESFSNMZ6JJE": {
       "generated_date": "2025-06-27T14:55:24.505517Z",
       "client_ref": "Tullio-Portatile",
@@ -102,5 +93,5 @@
       "reset_count": 0
     }
   },
-  "last_updated": "2026-09-08T09:47:23.017Z"
+  "last_updated": "2026-09-08T09:47:26.936Z"
 }
