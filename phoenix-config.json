@@ -100,7 +100,16 @@
       "system_id": "AB8464846ED27F69",
       "activation_timestamp": "2026-02-27T10:17:52.474821",
       "reset_count": 0
+    },
+    "22WK3AVVKH397R9L": {
+      "generated_date": "2026-09-08T09:36:32.869Z",
+      "client_ref": "Prova",
+      "license_type": "professional",
+      "active": true,
+      "system_id": null,
+      "activation_timestamp": null,
+      "reset_count": 0
     }
   },
-  "last_updated": "2025-06-27T14:56:42.842259Z"
+  "last_updated": "2026-09-08T09:36:32.869Z"
 }
