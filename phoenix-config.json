@@ -69,7 +69,7 @@
       "generated_date": "2026-09-18T09:34:43.895Z",
       "client_ref": "Archigia-4",
       "license_type": "professional",
-      "active": true,
+      "active": false,
       "system_id": null,
       "activation_timestamp": null,
       "reset_count": 0
@@ -84,5 +84,5 @@
       "reset_count": 0
     }
   },
-  "last_updated": "2026-09-29T15:19:14.676Z"
+  "last_updated": "2026-09-29T15:41:22.757Z"
 }
