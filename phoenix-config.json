@@ -73,7 +73,16 @@
       "system_id": null,
       "activation_timestamp": null,
       "reset_count": 0
+    },
+    "FNMVBQSBJQFE6ZVM": {
+      "generated_date": "2026-09-29T15:19:14.676Z",
+      "client_ref": "Archigia-5",
+      "license_type": "development",
+      "active": true,
+      "system_id": null,
+      "activation_timestamp": null,
+      "reset_count": 0
     }
   },
-  "last_updated": "2026-09-18T09:34:43.895Z"
+  "last_updated": "2026-09-29T15:19:14.676Z"
 }
