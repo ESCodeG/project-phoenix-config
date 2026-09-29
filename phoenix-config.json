@@ -78,11 +78,11 @@
       "generated_date": "2026-09-29T15:19:14.676Z",
       "client_ref": "Archigia-5",
       "license_type": "development",
-      "active": true,
+      "active": false,
       "system_id": null,
       "activation_timestamp": null,
       "reset_count": 0
     }
   },
-  "last_updated": "2026-09-29T15:41:22.757Z"
+  "last_updated": "2026-09-29T15:41:24.779Z"
 }
