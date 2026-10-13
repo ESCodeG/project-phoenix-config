@@ -82,16 +82,7 @@
       "system_id": null,
       "activation_timestamp": null,
       "reset_count": 0
-    },
-    "BQ5RZQBK3RKKHUXL": {
-      "generated_date": "2026-10-13T12:55:02.471Z",
-      "client_ref": "prova",
-      "license_type": "development",
-      "active": false,
-      "system_id": null,
-      "activation_timestamp": null,
-      "reset_count": 0
     }
   },
-  "last_updated": "2026-10-13T12:55:02.471Z"
+  "last_updated": "2026-10-13T12:55:10.931Z"
 }
