@@ -15,10 +15,10 @@
       "generated_date": "2025-06-27T14:55:24.505517Z",
       "client_ref": "Tullio-PC2",
       "license_type": "demo",
-      "active": true,
-      "system_id": "886B5BA0D01D6A3F",
-      "activation_timestamp": "2026-10-13T12:03:59.193741",
-      "reset_count": 0
+      "active": false,
+      "system_id": null,
+      "activation_timestamp": null,
+      "reset_count": 1
     },
     "BQGS7X768YBHDQHC": {
       "generated_date": "2025-06-27T14:55:24.505517Z",
@@ -84,5 +84,5 @@
       "reset_count": 0
     }
   },
-  "last_updated": "2026-10-13T12:55:10.931Z"
+  "last_updated": "2026-10-19T10:20:13.796Z"
 }
